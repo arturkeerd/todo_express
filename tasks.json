@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "task": "Study HTML"
+  },
+  {
+    "id": 2,
+    "task": "Study CSS"
+  },
+  {
+    "id": 3,
+    "task": "Study JS"
+  },
+  {
+    "id": 4,
+    "task": "Study OOP"
+  },
+  {
+    "id": 5,
+    "task": "Study FS"
+  },
+  {
+    "id": 6,
+    "task": "New task"
+  },
+  {
+    "id": 7,
+    "task": "tere"
+  },
+  {
+    "id": 8,
+    "task": "tere1"
+  },
+  {
+    "id": 11,
+    "task": "miks nii"
+  },
+  {
+    "id": 12,
+    "task": "uus2"
+  }
+]
